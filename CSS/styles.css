@@ -51,7 +51,7 @@ background-color: #FFFFFF;
 }
 .post-link  .link:hover,
 .post-link  .link:focus {
-   color: ; #404bbf;
+   color:  #404bbf;
 }
 
 /* Унікальний контент сторінки */
@@ -59,13 +59,13 @@ background-color: #FFFFFF;
     background-color: #2e2f42;
 }
 .page-title {
-    font-size: 56px;
-    line-height: 1.07;
+    font-size:56px;
+    line-height:1.07;
     
         text-align: center;
         letter-spacing: 1.12px;
         font-family: Roboto;
-        color: #FFFFFF;
+        color: #ffffff;
         
         font-weight: 700;
         line-height: 1.07;
@@ -99,12 +99,12 @@ background-color: #FFFFFF;
     color: var(--NAVY-BLUE, #2E2F42);
     width: 264px;
     font-family: Roboto;
-        font-size: 20;
+        font-size: 20px;
         font-style: normal;
         font-weight: 500;
         line-height: 1.2;
         /* 120% */
-        letter-spacing: 0.02;
+        letter-spacing: 0.02em;
 }
 
 .text-advantages {
