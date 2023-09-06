@@ -65,21 +65,18 @@ background-color: #FFFFFF;
     background-color: #2e2f42;
 }
 .page-title {
+    font-size: 56px;
+    line-height: 1.07;
     
-    color: var(--WHITE, #FFF);
         text-align: center;
+        letter-spacing: 1.12px;
         font-family: Roboto;
-        font-size: 56px;
-        font-style: normal;
+        color: #FFFFFF;
+        
         font-weight: 700;
         line-height: 1.07;
-        /* 107.143% */
-        letter-spacing: 1.12px;
-        width: 496px;
-       
-        width: 1440px;
-            height: 600px;
-            flex-shrink: 0; 
+        
+        
 }
 .button-type {
     border-radius: 4px;
