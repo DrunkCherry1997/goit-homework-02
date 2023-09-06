@@ -61,6 +61,9 @@ background-color: #FFFFFF;
 }
 
 /* Унікальний контент сторінки */
+.main-styles{
+    background-color: #2e2f42;
+}
 .page-title {
     background-color: #2E2F42;
     color: var(--WHITE, #FFF);
@@ -121,6 +124,9 @@ background-color: #FFFFFF;
         letter-spacing: 0.32px;
 }
 /* Наша команда */
+.team-style {
+    background-color: #F4F4FD;
+}
 .page-title2 {
     color: var(--NAVY-BLUE, #2E2F42);
         text-align: center;
