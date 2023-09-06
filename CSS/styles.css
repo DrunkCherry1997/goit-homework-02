@@ -52,6 +52,13 @@ background-color: #FFFFFF;
         /* 150% */
         letter-spacing: 0.32px;
 }
+.post-link {
+    color: #434455;
+}
+.post-link  .link:hover,
+.post-link  .link:focus {
+   color: ; #404bbf;
+}
 
 /* Унікальний контент сторінки */
 .page-title {
