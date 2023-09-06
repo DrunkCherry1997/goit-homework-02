@@ -212,8 +212,8 @@ background-color: #2e2f42;
         font-size: 18px;
         font-style: normal;
         font-weight: 700;
-        line-height: 21px;
-        /* 116.667% */
+        line-height: 1.17;
+     
         letter-spacing: 0.54px;
         text-transform: uppercase;
 
