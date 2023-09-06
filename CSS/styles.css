@@ -46,11 +46,15 @@ background-color: #FFFFFF;
         /* 150% */
         letter-spacing: 0.32px;
 }
-.post-link {
+.adress-style .link:hover,
+.adress-style .link:focus {
+    color: #404bbf
+}
+.live-connection {
     color: #434455;
 }
-.post-link  .link:hover,
-.post-link  .link:focus {
+.live-connection  .link:hover,
+.live-connection  .link:focus {
    color:  #404bbf;
 }
 
