@@ -141,6 +141,9 @@ background-color: #FFFFFF;
         text-transform: capitalize;
         background: var(--CLOUD, #F4F4FD);
 }
+.team-color {
+    background-color: #FFFFFF;
+}
 .name-title {
     color: var(--NAVY-BLUE, #2E2F42);
         text-align: center;
