@@ -17,17 +17,10 @@ background-color: #FFFFFF;
         letter-spacing: 0.54px;
         text-transform: uppercase;
         
-        content: Studio; 
-        width: 71px;
-        color: var(--NAVY-BLUE, #2E2F42);
-            font-family: Raleway;
-            font-size: 18px;
-            font-style: normal;
-            font-weight: 700;
-            line-height: 21px;
-            /* 116.667% */
-            letter-spacing: 0.54px;
-            text-transform: uppercase;
+   
+}
+.logo-style .studio {
+    color: #2e2f42;
 }
 .menu-nav {
     color: var(--NAVY-BLUE, #2E2F42);
