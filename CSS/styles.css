@@ -94,6 +94,11 @@ background-color: #FFFFFF;
             letter-spacing: 0.64px;
             cursor: pointer;
 }
+.button-type button:hover,
+.button-type button:focus {
+   color: #404BBF; 
+}
+
 
 /* Секція наших переваг */
 .advantages-title {
