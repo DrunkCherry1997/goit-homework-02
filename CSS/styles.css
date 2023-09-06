@@ -3,8 +3,33 @@ font-family: 'Roboto', sans-serif;
 
 background-color: #FFF;
 }
-
-menu-nav {
+/* Навігація */
+.logo-style{
+    content: Web;
+    width: 44px;
+    color: var(--IRIS, #4D5AE5);
+        font-family: Raleway;
+        font-size: 18px;
+        font-style: normal;
+        font-weight: 700;
+        line-height: 21px;
+        /* 116.667% */
+        letter-spacing: 0.54px;
+        text-transform: uppercase;
+        
+        content: Studio; 
+        width: 71px;
+        color: var(--NAVY-BLUE, #2E2F42);
+            font-family: Raleway;
+            font-size: 18px;
+            font-style: normal;
+            font-weight: 700;
+            line-height: 21px;
+            /* 116.667% */
+            letter-spacing: 0.54px;
+            text-transform: uppercase;
+}
+.menu-nav {
     color: var(--NAVY-BLUE, #2E2F42);
     font-family: Roboto;
         font-size: 16px;
@@ -13,9 +38,67 @@ menu-nav {
         line-height: 24px;
         /* 150% */
         letter-spacing: 0.32px;
+
 }
-/* Our advantages secctions */
-advantages-title {
+/* Адрес */
+.post-style {
+    color: var(--SLATE, #434455);
+        /* Body */
+        font-family: Roboto;
+        font-size: 16px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 24px;
+        /* 150% */
+        letter-spacing: 0.32px;
+}
+.number-style {
+    color: var(--SLATE, #434455);
+        /* Body */
+        font-family: Roboto;
+        font-size: 16px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 24px;
+        /* 150% */
+        letter-spacing: 0.32px;
+}
+/* Унікальний контент сторінки */
+.page-title {
+    color: var(--WHITE, #FFF);
+        text-align: center;
+        /* Header 1 */
+        font-family: Roboto;
+        font-size: 56px;
+        font-style: normal;
+        font-weight: 700;
+        line-height: 60px;
+        /* 107.143% */
+        letter-spacing: 1.12px;
+        width: 496px;
+        background-color: #2E2F42;
+        width: 1440px;
+            height: 600px;
+            flex-shrink: 0;
+}
+.button-type {
+    border-radius: 4px;
+        background: var(--IRIS, #4D5AE5);
+        box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.15);
+        color: var(--WHITE, #FFF);
+            /* Button Text */
+            font-family: Roboto;
+            font-size: 16px;
+            font-style: normal;
+            font-weight: 500;
+            line-height: 24px;
+            /* 150% */
+            letter-spacing: 0.64px;
+            cursor: pointer;
+}
+
+/* Секція наших переваг */
+.advantages-title {
     color: var(--NAVY-BLUE, #2E2F42);
     width: 264px;
     font-family: Roboto;
@@ -27,7 +110,7 @@ advantages-title {
         letter-spacing: 0.4px;
 }
 
-text-advantages {
+.text-advantages {
     color: var(--SLATE, #434455);
     width: 264px;
     font-family: Roboto;
@@ -38,9 +121,49 @@ text-advantages {
         /* 150% */
         letter-spacing: 0.32px;
 }
-
-/* Portfolio */
-title-section {
+/* Наша команда */
+.page-title2 {
+    color: var(--NAVY-BLUE, #2E2F42);
+        text-align: center;
+        /* Header 2 */
+        font-family: Roboto;
+        font-size: 36px;
+        font-style: normal;
+        font-weight: 700;
+        line-height: 40px;
+        /* 111.111% */
+        letter-spacing: 0.72px;
+        text-transform: capitalize;
+        background: var(--CLOUD, #F4F4FD);
+}
+.name-title {
+    color: var(--NAVY-BLUE, #2E2F42);
+        text-align: center;
+        /* Header 3 */
+        font-family: Roboto;
+        font-size: 20px;
+        font-style: normal;
+        font-weight: 500;
+        line-height: 24px;
+        /* 120% */
+        letter-spacing: 0.4px;
+        background: var(--CLOUD, #F4F4FD);
+}
+.job-position{
+    color: var(--SLATE, #434455);
+        text-align: center;
+        /* Body */
+        font-family: Roboto;
+        font-size: 16px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 24px;
+        /* 150% */
+        letter-spacing: 0.32px;
+        background: var(--CLOUD, #F4F4FD);
+}
+/* Портфоліо */
+.title-section {
 color: var(--NAVY-BLUE, #2E2F42);
     text-align: center;
     /* Header 2 */
@@ -53,7 +176,7 @@ color: var(--NAVY-BLUE, #2E2F42);
     letter-spacing: 0.72px;
     text-transform: capitalize;
 }
-servises {
+.servises {
     color: var(--NAVY-BLUE, #2E2F42);
         /* Header 3 */
         font-family: Roboto;
@@ -64,7 +187,7 @@ servises {
         /* 120% */
         letter-spacing: 0.4px;
 }
-activity {
+.activity {
     color: var(--SLATE, #434455);
         /* Body */
         font-family: Roboto;
@@ -74,4 +197,44 @@ activity {
         line-height: 24px;
         /* 150% */
         letter-spacing: 0.32px;
+}
+/* Футер сторінки */
+.logo-style2{
+    content: Web;
+    color: var(--IRIS, #4D5AE5);
+        font-family: Raleway;
+        font-size: 18px;
+        font-style: normal;
+        font-weight: 700;
+        line-height: 21px;
+        /* 116.667% */
+        letter-spacing: 0.54px;
+        text-transform: uppercase;
+
+        content: Studio;
+        color: var(--CLOUD, #F4F4FD);
+            font-family: Raleway;
+            font-size: 18px;
+            font-style: normal;
+            font-weight: 700;
+            line-height: 21px;
+            /* 116.667% */
+            letter-spacing: 0.54px;
+            text-transform: uppercase;
+}
+.footer-text {
+    width: 264px;
+    color: var(--CLOUD, #F4F4FD);
+        /* Body */
+        font-family: Roboto;
+        font-size: 16px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 24px;
+        /* 150% */
+        letter-spacing: 0.32px;
+        background-color: var(--NAVY-BLUE, #2E2F42);
+        width: 1440px;
+            height: 312px;
+            flex-shrink: 0;
 }
