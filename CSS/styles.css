@@ -198,7 +198,10 @@ color: var(--NAVY-BLUE, #2E2F42);
         letter-spacing: 0.32px;
 }
 /* Футер сторінки */
-.logo-style2{
+.footer-style {
+background-color: #2e2f42;
+}
+.logo-style2 {
     content: Web;
     color: var(--IRIS, #4D5AE5);
         font-family: Raleway;
