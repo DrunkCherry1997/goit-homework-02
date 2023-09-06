@@ -224,17 +224,10 @@ background-color: #2e2f42;
         letter-spacing: 0.54px;
         text-transform: uppercase;
 
-        content: Studio;
-        color: var(--CLOUD, #F4F4FD);
-            font-family: "Raleway",
-                sans-serif,;
-            font-size: 18px;
-            font-style: normal;
-            font-weight: 700;
-            line-height: 1.17;
-            /* 116.667% */
-            letter-spacing: 0.54px;
-            text-transform: uppercase;
+        
+}
+.logo-style .studio {
+    color: #f4f4fd
 }
 .footer-text {
     width: 264px;
