@@ -21,7 +21,7 @@ background-color: #FFFFFF;
 }
 
 .logo-style .first-studio {
-    color: #2e2f42 
+    color: #2e2f42;
 }
 .menu-nav {
     color: var(--NAVY-BLUE, #2E2F42);
@@ -179,7 +179,29 @@ color: var(--NAVY-BLUE, #2E2F42);
     letter-spacing: 0.72px;
     text-transform: capitalize;
 }
+.advantages-title {
+    color: var(--NAVY-BLUE, #2E2F42);
+    width: 264px;
+    font-family: Roboto;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 1.2;
+    /* 120% */
+    letter-spacing: 0.02em;
+}
 
+.text-advantages {
+    color: var(--SLATE, #434455);
+    width: 264px;
+    font-family: Roboto;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+    /* 150% */
+    letter-spacing: 0.32px;
+}
 
 
 /* Футер сторінки */
