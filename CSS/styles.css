@@ -51,7 +51,7 @@ background-color: #FFFFFF;
 }
 .post-link  .link:hover,
 .post-link  .link:focus {
-   color: ; #404bbf;
+   color:  #404bbf;
 }
 
 /* Унікальний контент сторінки */
@@ -59,11 +59,11 @@ background-color: #FFFFFF;
     background-color: #2e2f42;
 }
 .page-title {
-    font-size: 56px;
+    font-size: 56;
     line-height: 1.07;
     
         text-align: center;
-        letter-spacing: 1.12px;
+        letter-spacing: 1.12;
         font-family: Roboto;
         color: #FFFFFF;
         
