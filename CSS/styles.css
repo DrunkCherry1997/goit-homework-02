@@ -99,12 +99,12 @@ background-color: #FFFFFF;
     color: var(--NAVY-BLUE, #2E2F42);
     width: 264px;
     font-family: Roboto;
-        font-size: 20p;
+        font-size: 20;
         font-style: normal;
         font-weight: 500;
         line-height: 1.2;
         /* 120% */
-        letter-spacing: 0.02em;
+        letter-spacing: 0.02;
 }
 
 .text-advantages {
