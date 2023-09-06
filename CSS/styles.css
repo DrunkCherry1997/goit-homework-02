@@ -12,7 +12,7 @@ background-color: #FFFFFF;
         font-size: 18px;
         font-style: normal;
         font-weight: 700;
-        line-height: 21px;
+        line-height: 21px; 
         /* 116.667% */
         letter-spacing: 0.54px;
         text-transform: uppercase;
@@ -41,7 +41,7 @@ background-color: #FFFFFF;
 
 }
 /* Адрес */
-.post-style {
+.adress-style {
     color: var(--SLATE, #434455);
         /* Body */
         font-family: Roboto;
@@ -52,17 +52,7 @@ background-color: #FFFFFF;
         /* 150% */
         letter-spacing: 0.32px;
 }
-.number-style {
-    color: var(--SLATE, #434455);
-        /* Body */
-        font-family: Roboto;
-        font-size: 16px;
-        font-style: normal;
-        font-weight: 400;
-        line-height: 24px;
-        /* 150% */
-        letter-spacing: 0.32px;
-}
+
 /* Унікальний контент сторінки */
 .page-title {
     color: var(--WHITE, #FFF);
