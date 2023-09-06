@@ -4,7 +4,7 @@ color: #434455;
 background-color: #FFFFFF;
 }
 /* Навігація */
-.logo-style{
+.logo-style {
     content: Web;
     width: 44px;
     color: var #4D5AE5;
@@ -19,7 +19,8 @@ background-color: #FFFFFF;
         
    
 }
-.logo-style .studio {
+
+.logo-style .first-studio {
     color: #2e2f42;
 }
 .menu-nav {
