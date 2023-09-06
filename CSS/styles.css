@@ -4,7 +4,7 @@ color: #434455;
 background-color: #FFFFFF;
 }
 /* Навігація */
-.logo-style {
+.header .logo-style {
     content: "Web";
     width: 44px;
     color: varvar(--IRIS,) #4D5AE5;
@@ -20,7 +20,7 @@ background-color: #FFFFFF;
    
 }
 
-.logo-style .first-studio {
+.header .logo-style .first-studio {
     color: #2e2f42;
 }
 .menu-nav {
