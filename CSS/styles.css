@@ -65,10 +65,9 @@ background-color: #FFFFFF;
     background-color: #2e2f42;
 }
 .page-title {
-    background-color: #2E2F42;
+    
     color: var(--WHITE, #FFF);
         text-align: center;
-        /* Header 1 */
         font-family: Roboto;
         font-size: 56px;
         font-style: normal;
