@@ -10,7 +10,7 @@ background-color: #FFFFFF;
     color: varvar(--IRIS,) #4D5AE5;
         font-family:"Raleway",sans-serif;
         font-size: 18px;
-        font-style: normal;
+    
         font-weight: 700;
         line-height: 1.17; 
         /* 116.667% */
@@ -23,6 +23,9 @@ background-color: #FFFFFF;
 .header .logo-style  span.first-studio {
     color: #2e2f42;
 }
+.first-studio {
+    color: #2e2f42;
+}
 .menu-nav {
     color: var(--NAVY-BLUE, #2E2F42);
     font-family: Roboto;
@@ -33,6 +36,13 @@ background-color: #FFFFFF;
         /* 150% */
         letter-spacing: 0.32px;
 
+}
+.link {
+    text-decoration: none;
+}
+.menu-nav:hover,
+.menu-nav:focus {
+    color: #404bbf 
 }
 /* Адрес */
 .adress-style {
@@ -68,7 +78,7 @@ background-color: #FFFFFF;
 .main-styles{
     background-color: #2e2f42;
 }
-.page-title {
+.main-title {
     font-size: 56px;
     line-height: 1.07;
     
