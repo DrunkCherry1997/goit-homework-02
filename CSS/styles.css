@@ -1,7 +1,7 @@
 body {
 font-family: 'Roboto', sans-serif;
 color: #434455;
-background-color: #FFFFFF;
+background-color: #FFFFFF; 
 }
 /* Навігація */
 .header .logo-style {
@@ -14,7 +14,7 @@ background-color: #FFFFFF;
         font-weight: 700;
         line-height: 1.17; 
         /* 116.667% */
-        letter-spacing: 0.54px;
+        letter-spacing: 0.54px; 
         text-transform: uppercase;
         
    
@@ -184,7 +184,12 @@ background-color: #FFFFFF;
         /* 150% */
         letter-spacing: 0.32px;
         background: var(--CLOUD, #F4F4FD);
+} 
+
+.list-style {
+    list-style-type: none;
 }
+
 /* Портфоліо */
 .title-section {
 color: var(--NAVY-BLUE, #2E2F42);
