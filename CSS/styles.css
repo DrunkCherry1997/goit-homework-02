@@ -53,8 +53,8 @@ background-color: #FFFFFF;
 .live-connection {
     color: #434455;
 }
-.live-connection  .link:hover,
-.live-connection  .link:focus {
+  .live-connection:hover,
+  .live-connection:focus {
    color:  #404bbf;
 }
 
