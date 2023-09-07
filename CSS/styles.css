@@ -46,8 +46,8 @@ background-color: #FFFFFF;
         /* 150% */
         letter-spacing: 0.32px;
 }
-.adress-style .link:hover,
-.adress-style .link:focus {
+.adress-style .live-connection:hover,
+.adress-style .live-connection:focus {
     color: #404bbf
 }
 .live-connection {
