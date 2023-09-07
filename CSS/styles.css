@@ -69,10 +69,8 @@ background-color: #FFFFFF;
 .live-connection {
     color: #434455;
 }
- .adress-style .live-connection:hover,
-  .adress-style .live-connection:focus {
-   color:  #404bbf;
-}
+
+
 
 /* Унікальний контент сторінки */
 .main-styles{
@@ -110,7 +108,7 @@ background-color: #FFFFFF;
 }
 .button-type:hover,
 .button-type:focus {
-   background-color: #404BBF; 
+background-color: #404BBF; 
 }
 
 
