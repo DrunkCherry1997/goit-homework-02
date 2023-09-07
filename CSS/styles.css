@@ -20,7 +20,7 @@ background-color: #FFFFFF;
    
 }
 
-.header .logo-style .first-studio {
+.header .logo-style  .span.first-studio {
     color: #2e2f42;
 }
 .menu-nav {
@@ -45,6 +45,12 @@ background-color: #FFFFFF;
         line-height: 24px;
         /* 150% */
         letter-spacing: 0.32px;
+}
+.link:hover {
+    color: #404bbf;
+}
+.link:focus {
+    color: #404bbf;
 }
 .adress-style .live-connection:hover,
 .adress-style .live-connection:focus {
