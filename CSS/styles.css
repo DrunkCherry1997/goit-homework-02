@@ -94,7 +94,7 @@ background-color: #FFFFFF;
 }
 .button-type:hover,
 .button-type:focus {
-   color: #404BBF; 
+   background-color: #404BBF; 
 }
 
 
