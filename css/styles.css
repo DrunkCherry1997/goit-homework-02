@@ -103,9 +103,9 @@ body {
 }
 
 .button-type {
-    border-radius: 4px;
+    
     background: var(--IRIS, #4D5AE5);
-    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.15);
+    
     color: var(--WHITE, #FFF);
     /* Button Text */
     font-family: "Roboto",
@@ -128,7 +128,7 @@ body {
 /* Секція наших переваг */
 .advantages-title {
     color: var(--NAVY-BLUE, #2E2F42);
-    width: 264px;
+  
     font-family: Roboto;
     font-size: 20px;
     font-style: normal;
@@ -235,7 +235,7 @@ body {
 
 .text-advantages {
     color: var(--SLATE, #434455);
-    width: 264px;
+
     font-family: Roboto;
     font-size: 16px;
     font-style: normal;
@@ -252,7 +252,7 @@ body {
 }
 
 .logo-style {
-    content: Web;
+    
     color: var(--IRIS, #4D5AE5);
     font-family: "Raleway",
         sans-serif;
@@ -284,5 +284,5 @@ body {
     letter-spacing: 0.32px;
     background-color: var(--NAVY-BLUE, #2E2F42);
     
-    flex-shrink: 0;
+    
 }
