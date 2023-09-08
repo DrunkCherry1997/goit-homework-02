@@ -7,7 +7,7 @@ body {
 /* Навігація */
 .header .logo-style {
     content: "Web";
-    width: 44px;
+    
     color: varvar(--IRIS, ) #4D5AE5;
     font-family: "Raleway", sans-serif;
     font-size: 18px;
