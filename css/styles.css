@@ -21,6 +21,10 @@ body {
 
 }
 
+.logo-style {
+    text-decoration: none;
+}
+
 .header .logo-style span.first-studio {
     color: #2e2f42;
 }
@@ -41,6 +45,7 @@ body {
 
 }
 
+
 .link {
     text-decoration: none;
 }
@@ -49,6 +54,7 @@ body {
 .menu-nav:focus {
     color: #404bbf
 }
+
 
 /* Адрес */
 .adress-style {
